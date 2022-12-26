@@ -124,7 +124,7 @@ body{
         padding: 0;
     }
     .container{
-        margin: auto;
+        margin: 15px auto 0;
         width: 340px;
         height: auto;
         display: grid;
